@@ -8,7 +8,7 @@
 This is a small set of instructions that will tell you how to
 demo the site
 
-## 1. Gitlab Setup + Spotipy
+## 1. Gitlab Setup + SpotDL
 
 You will need to create a Gitlab account and download your music.
 This has only been test with [SpotDL](https://github.com/spotDL/spotify-downloader).
